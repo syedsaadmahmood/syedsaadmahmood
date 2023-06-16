@@ -19,7 +19,7 @@ As an accomplished Full-Stack Developer, I specialize in the design, development
 - NodeJS Frameworks: Proficient with ExpressJS and NestJS for backend development.
 
 ### Testing Techniques:
-- Unit Testing: Experienced with Jest, Jasmine, and Django Factory for ensuring code reliability.
+- Unit Testing: Experienced with Jest, Jasmine, and User Factory for ensuring code reliability.
 - End-to-End Testing: Proficient with Cypress to test the complete functionality of applications.
 
 ### Database Skills:
