@@ -42,6 +42,4 @@ As an accomplished Full-Stack Developer, I specialize in the design, development
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=syedsaadmahmood)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsaadmahmood&hide_progress=true)
-
 📩 Excited to create powerful digital solutions that make a difference? Let's connect and bring your vision to life!
